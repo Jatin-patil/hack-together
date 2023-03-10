@@ -9,3 +9,5 @@ This .NET console application begins by retrieving the user's name and email ID 
 Following is the Output of the Application
 
 <img width="671" alt="image" src="https://user-images.githubusercontent.com/56484019/224447795-bf87d93b-2e4f-481f-b1eb-35421270612b.png">
+
+[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
